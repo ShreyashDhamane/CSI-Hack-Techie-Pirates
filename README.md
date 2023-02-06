@@ -32,6 +32,13 @@ docker-compose up --build
 - MongoDB
 - Node.js
 - Express.js
+Firebase cloud messaging,
+circle ci
+okteto hosting,
+docker
+huddle video acll
+razorpay
+calendaer api
 
 ## Raw Schema
 ### 📁 EVENT:
